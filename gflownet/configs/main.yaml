@@ -22,7 +22,7 @@ learn_eps: true
 # GFlowNet algorithm
 alg: fl
 onpolicy: true
-epochs: 20
+epochs: 5
 trainsize: 4000
 testsize: 500
 tstep: 30
